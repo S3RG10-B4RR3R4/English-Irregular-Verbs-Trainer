@@ -1,7 +1,5 @@
 # ✨ Irregular Verbs Game ✨
 
-![Game Banner](https://via.placeholder.com/800x200?text=Irregular+Verbs+Game)
-
 ## 🌟 Overview
 
 Learn English irregular verbs in a fun and interactive way! This engaging game helps you master those tricky verb forms through an enjoyable practice session.
